@@ -63,7 +63,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - *2014.07* Best Paper Candidate, GlobeCom 2014.  
 
 # 🎓 Educations
-- *2013.09 - 2017.12 (now)*, University of Electronic Science and Technology of China, Computer Science PhD.  
+- *2013.09 - 2017.12*, University of Electronic Science and Technology of China, Computer Science PhD.  
 - *2015.09 - 2019.06*, University of Electronic Science and Technology of China, Computer Science Mphil.
 - *2004.09 - 2008.09*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
@@ -71,7 +71,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - - *2016.6 - 2017.6*, University of British Columbia, visiting student working on Bioinformatics supervised by Professor Raymond Ng.  
 
 # 💻 Employment
-- *2013.09 - 2017.12 (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
+- *2018.04 - (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
 - *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](https://github.com/), Hong Kong, China.
   
 # 💬 Invited Talks
