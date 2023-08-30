@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Liu Bin is an Associate Professor of the School of Statistics at the Southwestern University of Finance and Economics.
+#  Bbout Me
+Liu Bin is an Associate Professor of the Center of Statistical Research, School of Statistics at the Southwestern University of Finance and Economics.
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
