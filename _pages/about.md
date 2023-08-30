@@ -41,22 +41,29 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 </div>
 </div>
 
-- [Zhuo Tan, Yifan Zhu, Bin Liu. Learning spatial-temporal feature with graph product, Signal Processing](https://doi.org/10.1016/j.sigpro.2023.109062), **Signal Processing 2023**
+- Zhuo Tan, Yifan Zhu, Bin Liu*. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.10* Best Paper Runner Up, ACML 2016. 
+- *2014.07* Best Paper Candidate, GlobeCom 2014.  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2017.12 (now)*, University of Electronic Science and Technology of China, Computer Science PhD.  
+- *2015.09 - 2019.06*, University of Electronic Science and Technology of China, Computer Science Mphil.
+- *2004.09 - 2008.09*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
+- # 📖 Visiting
+- - *2016.6 - 2017.6 *, University of British Columbia, visiting student working on Bioinformatics supervised by Professor Raymond Ng.  
+
+# 💻 Employment
+- *2013.09 - 2017.12 (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
+- *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](https://github.com/), Hong Kong, China.
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
