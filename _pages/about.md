@@ -39,9 +39,19 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+
 </div>
 
-- Zhuo Tan, Yifan Zhu, Bin Liu*. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
+- **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China.
+- Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada.
+- Zhuo Tan, **Bin Liu***, Guosheng Yin. [Asymmetric Self-Supervised Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10021033/). **IEEE International Conference on Big Data**, Osaka, Japan, 2022, pp. 1369-1376.
+- Jiujun He, **Bin Liu**, Xuan Yang. [Non-local Patch Mixup for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10027648/). 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 969-974.
+
+- Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
+- Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
+
+
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
@@ -55,12 +65,13 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 - *2015.09 - 2019.06*, University of Electronic Science and Technology of China, Computer Science Mphil.
 - *2004.09 - 2008.09*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
-- # 📖 Visiting
+# 📖 Visiting
 - - *2016.6 - 2017.6 *, University of British Columbia, visiting student working on Bioinformatics supervised by Professor Raymond Ng.  
 
 # 💻 Employment
 - *2013.09 - 2017.12 (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
 - *2018.09 - 2020.09*, PostDoc at Department of Statistics and Actuarial Science, [The University of Hong Kong](https://github.com/), Hong Kong, China.
+  
 # 💬 Invited Talks
 - *2023.08*, Customizing personal large-scale language model using co-occurrence statistic information, 首届机器学习与统计会议，华东师范大学，上海. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
