@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-I am an Associate Professor of the Center of Statistical Research, School of Statistics at the Southwestern University of Finance and Economics. My research interest includes Graph Neural Networks and its applications in Economics and Medical Science.
+I am an Associate Professor in the Center of Statistical Research, School of Statistics at the Southwestern University of Finance and Economics. My research interest includes Graph Neural Networks and its applications in Economics and Medical Science.
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -27,6 +27,7 @@ I am an Associate Professor of the Center of Statistical Research, School of Sta
 - *2023.09*: &nbsp;🎉🎉 第16届中国R会议在成都西南财经大学举办.
 
 # 📐 Teaching
+I teach **Multivariate Statistics Analysis**, **Optimization Methods**.
 
 
 # 📝 Publications 
@@ -35,10 +36,10 @@ I am an Associate Professor of the Center of Statistical Research, School of Sta
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
 
-[ASD diagnosis with GNNs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
+ASD diagnosis with GNNs
+  
 Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
-
+  
 [**Project**](https://openreview.net/pdf?id=PVU-k24tPb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
 </div>
