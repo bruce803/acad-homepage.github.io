@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #  About Me
-Liu Bin is an Associate Professor of the Center of Statistical Research, School of Statistics at the Southwestern University of Finance and Economics.
+I am an Associate Professor of the Center of Statistical Research, School of Statistics at the Southwestern University of Finance and Economics. My research interest includes Graph Neural Networks and its applications in Economics and Medical Science.
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -29,31 +29,31 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 
 # 📝 Publications 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
 
 [ASD diagnosis with GNNs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
 [**Project**](https://openreview.net/pdf?id=PVU-k24tPb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Autism Spectrum Disorder (ASD) is a intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
+- Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
 </div>
 </div>
 
-- **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China.
+## Conference Papers
+
+- <div class="badge">IJCAI 2023</div> **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China.
 - Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada.
 - Zhuo Tan, **Bin Liu***, Guosheng Yin. [Asymmetric Self-Supervised Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10021033/). **IEEE International Conference on Big Data**, Osaka, Japan, 2022, pp. 1369-1376.
 - Jiujun He, **Bin Liu**, Xuan Yang. [Non-local Patch Mixup for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10027648/). 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 969-974.
 
+
+## Journal Papers
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
 - Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
 
-
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2016.10* Best Paper Runner Up, ACML 2016. 
