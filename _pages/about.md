@@ -29,15 +29,15 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023 2016</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://openreview.net/pdf?id=PVU-k24tPb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder that affects socialization and is characterized by abnormal, restricted, or repetitive language behaviors. Symptoms typically start to appear around the age of 2, making early diagnosis essential for treatment. One standardized screening method is an autism-specific interview with children's parents. However, this diagnostic process requires highly experienced physicians, making questionnaire-based screening less effective. Recently, imaging-based diagnosis has emerged as a more objective option. In this paper, we propose a graph neural network-based model for ASD diagnosis using Diffusion Tensor Imaging (DTI)  and functional Magnetic Resonance Imaging (fMRI) data. We first calculate the correlations of 90 brain regions based on the automated anatomical labeling (AAL) template using brain imaging data of DTI and fMRI. This enables the construction of a comprehensive network map that delineates the interconnections among various brain regions. Subsequently, we propose to utilize a graph neural network for the purpose of diagnosing ASD, wherein the graph derived from DTI serves as the adjacency matrix, while the map of the fMRI is utilized as the node features. To improve the performance of diagnosis, we introduce a regularization of maximum inter-class graph distance and minimum intra-class graph distance, in addition to graph classification. We then calculate the correlation matrix between functional areas based on the obtained 90 implicit features corresponding to the nodes of functional areas and their 90 eigenvalues. We also perform hypothesis tests on the 90 eigenvalues corresponding to ASD negative and positive groups in turn to discover the pathogenic functional areas by comparing the eigenvalue distributions between the two groups. Our experiments on 138 real-world samples demonstrate the superior performance of our proposed model for diagnosis. 
 </div>
 
 </div>
