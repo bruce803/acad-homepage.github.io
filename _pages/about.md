@@ -63,7 +63,8 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
 - Zenglin Xu, **Bin Liu***, Shandian Zhe, Haoli Bai, Zihan Wang, Jennifer Neville. [Variational random function model for network modeling](), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 30, no. 1, pp. 318-324, Jan. 2019.
 - **Bin Liu**, Lirong He, Yingming Li, Shandian Zhe, Zenglin Xu. [NeuralCP: Bayesian Multiway Data Analysis with Neural Tensor Decomposition](https://doi.org/10.1007/s12559-018-9587-4), **Cognitive Computation**, 10, pp.1051–1061, 2018.
-- Bin Liu, Yingming Li, Zenglin Xu. [Manifold regularized matrix completion for multi-label learning with ADMM](). **Neural Networks**, vol. 101, pp. 57-67, 2018.
+- **Bin Liu**, Yingming Li, Zenglin Xu. [Manifold regularized matrix completion for multi-label learning with ADMM](). **Neural Networks**, vol. 101, pp. 57-67, 2018.
+- **Bin Liu**, Zenglin Xu, Shuang Wu, Fei Wang. [Manifold regularized matrix completion for multilabel classification](https://doi.org/10.1016/j.patrec.2016.04.017). **Pattern Recognition Letters**, Vol. 80, pp. 58-63, 2016
 
 
 
