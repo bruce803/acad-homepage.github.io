@@ -58,7 +58,10 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 
 ## Journal Papers
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
-- Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
+- Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
+- Zenglin Xu, **Bin Liu***, Shandian Zhe, Haoli Bai, Zihan Wang, Jennifer Neville. [Variational random function model for network modeling](), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 30, no. 1, pp. 318-324, Jan. 2019.
+- **Bin Liu**, Lirong He, Yingming Li, Shandian Zhe, Zenglin Xu. [NeuralCP: Bayesian Multiway Data Analysis with Neural Tensor Decomposition](https://doi.org/10.1007/s12559-018-9587-4), **Cognitive Computation**, 10, pp.1051–1061, 2018.
+
 
 
 # 🎖 Honors and Awards
