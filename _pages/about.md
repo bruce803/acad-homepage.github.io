@@ -24,8 +24,8 @@ Liu Bin is an Associate Professor of the Center of Statistical Research, School 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 第16届中国R会议在成都西南财经大学举办. 
+
 
 # 📝 Publications 
 
