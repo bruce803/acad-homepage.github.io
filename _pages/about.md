@@ -66,7 +66,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - *2004.09 - 2008.09*, Liaoning University of Technology, Bachelor of Computational Mathematics
 
 # 📖 Visiting
-- - *2016.6 - 2017.6 *, University of British Columbia, visiting student working on Bioinformatics supervised by Professor Raymond Ng.  
+- - *2016.6 - 2017.6*, University of British Columbia, visiting student working on Bioinformatics supervised by Professor Raymond Ng.  
 
 # 💻 Employment
 - *2013.09 - 2017.12 (now)*, Associate professor at the School of Statistics, [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/), Chengdu, China.
