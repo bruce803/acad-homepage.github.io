@@ -27,20 +27,20 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 - *2023.09*: &nbsp;🎉🎉 第16届中国R会议在成都西南财经大学举办.
 
 # 📐 Teaching
-I teach **Multivariate Statistics Analysis**, **Optimization Methods**.
+I teach **Multivariate Statistics Analysis**, and **Optimization Methods**.
 
 
 # 📝 Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
-ASD diagnosis with GNNs
+[ASD diagnosis with GNNs](https://openreview.net/pdf?id=PVU-k24tPb)
   
 Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
   
-[**Project**](https://openreview.net/pdf?id=PVU-k24tPb) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://openreview.net/pdf?id=PVU-k24tPb) 
 - Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
 </div>
 </div>
