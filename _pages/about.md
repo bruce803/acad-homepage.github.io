@@ -51,8 +51,9 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang. [Autistic Spectrum Disorders Diagnose with Graph Neural Networks](https://www.acmmm2023.org/list-of-accepted-papers-to-the-main-track/). **ACM Multimedia**, 2023, Ottawa, Canada.
 - Zhuo Tan, **Bin Liu***, Guosheng Yin. [Asymmetric Self-Supervised Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10021033/). **IEEE International Conference on Big Data**, Osaka, Japan, 2022, pp. 1369-1376.
 - Jiujun He, **Bin Liu**, Xuan Yang. [Non-local Patch Mixup for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10027648/). **IEEE International Conference on Data Mining (ICDM)**, Orlando, FL, USA, 2022, pp. 969-974.
-- **Bin Liu**, Wang Liang, Yin Guosheng. [Learning distributed sentence vectors with bi-directional 3D convolutions](https://aclanthology.org/2020.coling-main.601.pdf). **The 28th International Conference on Computational Linguistics(COLING)**, Barcelona, Spain, 2020, pp 6820–6830.
-- **Bin Liu**, Xiaoxue Gao, Mengshuang He, Lin Liu, Guosheng Yin. [A Fast Online COVID-19 Diagnostic System with Chest CT Scans](https://www.kdd.org/kdd2020/health-day/). **26TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Health Day)**, Virtual Conference.
+- **Bin Liu**, Wang Liang, Yin Guosheng. [Learning distributed sentence vectors with bi-directional 3D convolutions](https://aclanthology.org/2020.coling-main.601.pdf). **The 28th International Conference on Computational Linguistics(COLING)**, Barcelona, Spain, 2020, pp. 6820–6830.
+- **Bin Liu**, Xiaoxue Gao, Mengshuang He, Lin Liu, Guosheng Yin. [A Fast Online COVID-19 Diagnostic System with Chest CT Scans](https://www.kdd.org/kdd2020/health-day/). **The 26TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Health Day)**, Virtual Conference.
+- **Bin Liu**, Guosheng Yin. [Chinese document classification with bi-directional convolutional language model](https://dl.acm.org/doi/abs/10.1145/3397271.3401248). **The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval**, Xi'an, China, 2020, pp. 1785–1788.
 
 
 ## Journal Papers
