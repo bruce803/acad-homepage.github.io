@@ -54,13 +54,16 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - **Bin Liu**, Wang Liang, Yin Guosheng. [Learning distributed sentence vectors with bi-directional 3D convolutions](https://aclanthology.org/2020.coling-main.601.pdf). **The 28th International Conference on Computational Linguistics(COLING)**, Barcelona, Spain, 2020, pp. 6820–6830.
 - **Bin Liu**, Xiaoxue Gao, Mengshuang He, Lin Liu, Guosheng Yin. [A Fast Online COVID-19 Diagnostic System with Chest CT Scans](https://www.kdd.org/kdd2020/health-day/). **The 26TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Health Day)**, Virtual Conference.
 - **Bin Liu**, Guosheng Yin. [Chinese document classification with bi-directional convolutional language model](https://dl.acm.org/doi/abs/10.1145/3397271.3401248). **The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval**, Xi'an, China, 2020, pp. 1785–1788.
-
+- **Bin Liu**, Zenglin Xu, Bo Dai, Haoli Bai, Xianghong Fang, Yazhou Ren, Shandian Zhe. [Learning from semantically dependent multi-tasks](https://ieeexplore.ieee.org/abstract/document/7966296). **International Joint Conference on Neural Networks (IJCNN)**, Anchorage, AK, USA, 2017, pp. 3498-3505.
+- Haoli Bai, Zenglin Xu, **Bin Liu**, Yingming Li. [Hierarchical probabilistic matrix factorization with network topology for multi-relational social network](http://proceedings.mlr.press/v63/bai103.html). **Proceedings of The 8th Asian Conference on Machine Learning**,  PMLR 63:270-285, 2016.
+- **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing 210 (2023): 109062**
 - Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 33, no. 11, pp. 6346-6359, Nov. 2022
 - Zenglin Xu, **Bin Liu***, Shandian Zhe, Haoli Bai, Zihan Wang, Jennifer Neville. [Variational random function model for network modeling](), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 30, no. 1, pp. 318-324, Jan. 2019.
 - **Bin Liu**, Lirong He, Yingming Li, Shandian Zhe, Zenglin Xu. [NeuralCP: Bayesian Multiway Data Analysis with Neural Tensor Decomposition](https://doi.org/10.1007/s12559-018-9587-4), **Cognitive Computation**, 10, pp.1051–1061, 2018.
+- Bin Liu, Yingming Li, Zenglin Xu. [Manifold regularized matrix completion for multi-label learning with ADMM](). **Neural Networks**, vol. 101, pp. 57-67, 2018.
 
 
 
