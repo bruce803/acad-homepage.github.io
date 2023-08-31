@@ -27,12 +27,20 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 - *2023.09*: &nbsp;🎉🎉 第16届中国R会议在成都西南财经大学举办.
 
 # 📐 Teaching Experience
-I teach **Deep Learning**, **Multivariate Statistical Analysis**, and **Optimization Theory**.
+I teach **Multivariate Statistical Analysis** this semester.
 
-| Course      | Course      | semester|
-| ----------- | ----------- |---------|
-| 0202J81010	| statistical learning | 18'Fall|
-| 0202J8201   | Machine learning      |18'Fall|
+
+| Statistical Learning | 18'Fall|  
+|:----------------------|:---------|
+| Machine Learning      |18',20'Fall|          
+| Python Programming      |19'Fall|       
+| 数据科学基础      |19',20'Fall|       
+| 最优化理论 I      |19',20',21',22'Fall|      
+| 最优化理论 II |20', 21', 22'Spring, 21'Fall|
+| Data Science in Action      |20'Fall|
+| 机器学习导论      |20'Fall|
+|Deep Learning|20'Fall|
+|Natural Language Processing|21'Spring|
 
 # 📝 Publications 
 
