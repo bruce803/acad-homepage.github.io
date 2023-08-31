@@ -37,14 +37,9 @@ I teach **Multivariate Statistical Analysis** this semester.
 | Python Programming       |19'Fall|   Data Science in Action      |20'Fall|                       ||
 | Foundations of Data Science      |19',20'Fall|   Introduction to Machine Learning    |20'Fall|   ||
     
-
-
-
-
-
-
 # 📝 Publications 
 
+## GNN in Medical Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,6 +52,9 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition that significantly impacts socialization and is distinguished by atypical, limited, or repetitive language behaviors. Our research focuses on the diagnosis of ASD utilizing multi-modal brain image data in conjunction with Graph Neural Networks (GNNs), specifically incorporating Diffusion Tensor Imaging (DTI), structural Magnetic Resonance Imaging (sMRI), and functional Magnetic Resonance Imaging (fMRI). Additionally, our objective is to identify the pathogenic functional regions within the brain networks associated with ASD.  
 </div>
 </div>
+
+
+## GNN in F&E
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/industryChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
