@@ -31,11 +31,19 @@ I teach **Multivariate Statistical Analysis** this semester.
 
 ## Courses taught:
 
+<!--
 | Statistical Learning | 18'Fall   |    Optimization Theory I |19',20',21',22'Fall|              Deep Learning  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
 | Machine Learning     |18',20'Fall|   Optimization Theory II |20', 21', 22'Spring, 21'Fall|     Natural Language Processing|21'Spring|
 | Python Programming       |19'Fall|   Data Science in Action      |20'Fall|                       ||
 | Foundations of Data Science      |19',20'Fall|   Introduction to Machine Learning    |20'Fall|   ||
+-->
+
+| 统计学习 | 18'Fall   |    最优化理论 I |19',20',21',22'Fall|              深度学习  |          20'Fall|
+|:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
+| 机器学习     |18',20'Fall|   最优化理论 II |20', 21', 22'Spring, 21'Fall|     自然语言处理|21'Spring|
+| Python 编程       |19'Fall|   数据科学实战      |20'Fall|                       ||
+| 数据科学基础      |19',20'Fall|   机器学习导论   |20'Fall|   ||
     
 # 📝 Publications 
 
