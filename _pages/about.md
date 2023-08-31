@@ -57,6 +57,18 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Analyze Industrial Chain with GNNs](https://www.ijcai.org/proceedings/2023/0674.pdf)
+  
+**Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin
+  
+[**Project**](https://www.ijcai.org/proceedings/2023/0674.pdf) 
+- The digital development of the industrial chain attracts more and more attention from researchers and policymakers. One of the critical issues is how the efficiency of the industrial chain is affected by external factors, such as macroeconomic policy, government regulation or monetary policy, international political factors, internal factors, such as microeconomic driver factors, and so on.  In this project, we conduct a quantitative analysis of the development of the industry chain with GNNs. 
+</div>
+</div>
+
 ## Conference Papers
 
 - **Bin Liu**, Jiujun He, Ziyuan Li, Xiaoyang Huang, Xiang Zhang, Guosheng Yin. [Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks](https://www.ijcai.org/proceedings/2023/0674.pdf). **IJCAI**, 2023, Macao, China.
