@@ -29,7 +29,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 # 📐 Teaching Experience
 I teach **Multivariate Statistical Analysis** this semester.
 
-
+## Courses taught:
 | Statistical Learning | 18'Fall   |    最优化理论 I |19',20',21',22'Fall|              Deep Learning  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
 | Machine Learning     |18',20'Fall|   最优化理论 II |20', 21', 22'Spring, 21'Fall|     Natural Language Processing|21'Spring|
