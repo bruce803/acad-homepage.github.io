@@ -30,6 +30,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 I teach **Multivariate Statistical Analysis** this semester.
 
 ## Courses taught:
+
 | Statistical Learning | 18'Fall   |    Optimization Theory I |19',20',21',22'Fall|              Deep Learning  |          20'Fall|
 |:---------------------|:----------|    :--------------------|:---------|              :----------------------|:---------|
 | Machine Learning     |18',20'Fall|   Optimization Theory II |20', 21', 22'Spring, 21'Fall|     Natural Language Processing|21'Spring|
