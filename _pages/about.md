@@ -57,7 +57,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ASD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/industryChain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analyze Industrial Chain with GNNs](https://www.ijcai.org/proceedings/2023/0674.pdf)
