@@ -27,7 +27,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 - *2023.09*: &nbsp;🎉🎉 第16届中国R会议在成都西南财经大学举办.
 
 # 📐 Teaching Experience
-I teach **Multivariate Statistical Analysis** this semester.
+I teach **Multivariate Statistical Analysis(多元统计分析)** this semester.
 
 ## Courses taught:
 
