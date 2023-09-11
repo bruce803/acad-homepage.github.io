@@ -29,8 +29,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 # 📐 Teaching Experience
 I teach **Multivariate Statistical Analysis(多元统计分析)** this semester.
 
-[slides](appendix/teaching/multiCovariateAna/yydyfx1.ppt)
-[code_2_2](appendix/teaching/multiCovariateAna/example2_2.ipynb)
+[slides&code](https://github.com/binspage/multiVariateAnaCourse)
 
 ## Courses taught:
 
