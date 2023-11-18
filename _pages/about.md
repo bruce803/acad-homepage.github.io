@@ -22,16 +22,11 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 <!-- My research interest includes Graph Neural Networks. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=U2Ao6lIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-[^_^]:
-    commentted-out contents
-    should be shift to right by four spaces (`>>`).
 
 # 🔥 News
 - *2023.11*: &nbsp; I am going to serve as a TPC member of IEEE the 7th International Conference on Big Data and Artificial Intelligence [(BDAI 2024)](http://www.bdai.net/).
 - *2023.10*: &nbsp;🎉🎉 One paper about LLM was accepted by the [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/issue/view/1167).
-
-  [^_^]:
-- *2023.09*: &nbsp;🎉🎉 [第16届中国R会议](https://mp.weixin.qq.com/s/cUqMvRR2NPQ4vRf4pFPf3g)在成都西南财经大学举办.
+<!-- *2023.09*: &nbsp;🎉🎉 [第16届中国R会议](https://mp.weixin.qq.com/s/cUqMvRR2NPQ4vRf4pFPf3g)在成都西南财经大学举办. -->
 
 
 # 📐 Teaching Experience
