@@ -96,7 +96,7 @@ Lu Wei, **Bin Liu***, Jiujun He, Manxue Zhang, Yi Huang
 - **Bin Liu**, Chao Song, Nianbo Liu. [Distinguishing uncertain objects with multiple features for crowdsensing](https://ieeexplore.ieee.org/abstract/document/7037224). IEEE Global Communications Conference, Austin, TX, USA, 2014, pp. 2751-2756.
 
 ## Journal Papers
-- **Bin Liu***, Guosheng Yin. [Graphmax for Text Generation]. **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
+- **Bin Liu***, Guosheng Yin. [Graphmax for Text Generation](). **Journal of Artificial Intelligence Research**, vol. 78, pp.823-848, Nov. 2023.
 - Zhuo Tan, Yifan Zhu, **Bin Liu***. [Learning spatial-temporal feature with graph product](https://doi.org/10.1016/j.sigpro.2023.109062). **Signal Processing**, 210 (2023): 109062.
 - Shaogao Lv, Linsen Wei, Qian Zhang, **Bin Liu**, Zenglin Xu. ["Improved Inference for Imputation-Based Semisupervised Learning Under Misspecified Setting"](https://ieeexplore.ieee.org/abstract/document/9439834), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 33, no. 11, pp. 6346-6359, Nov. 2022.
 - Zenglin Xu, **Bin Liu***, Shandian Zhe, Haoli Bai, Zihan Wang, Jennifer Neville. [Variational random function model for network modeling](), **IEEE Transactions on Neural Networks and Learning Systems**, vol. 30, no. 1, pp. 318-324, Jan. 2019.
