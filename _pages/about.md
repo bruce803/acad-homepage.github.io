@@ -24,6 +24,7 @@ I am an Associate Professor in the Center of Statistical Research, School of Sta
 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 One student paper was accepted by the [AAAI 2024](https://aaai.org/aaai-conference/)
 - *2023.12*: &nbsp; I am visiting Imperial Colledge London now (11.2023-12.2023).
 - *2023.11*: &nbsp; I am going to serve as a TPC member of IEEE the 7th International Conference on Big Data and Artificial Intelligence [(BDAI 2024)](http://www.bdai.net/).
 <!-- *2023.10*: &nbsp;🎉🎉 One paper about LLM was accepted by the [Journal of Artificial Intelligence Research] -->
